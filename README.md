@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaiKishan0
-- 👀 I’m interested in Web development 
+- 👀 I’m into in Web development 
 - 🌱 I’m currently learning Java full stack
 - 📫 How to reach me jaikishan28071976@gmail.com
 - 😄 Pronouns: Kishan
